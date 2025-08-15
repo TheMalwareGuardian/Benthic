@@ -13,29 +13,27 @@
 ## ***📑 Table of Contents***
 
 <ul>
-<li><a href="#firsttime">First Time?</a></li>
-<li><a href="#windowssecuritymeasures">Security Measures</a></li>
-<li>
-	<details>
-	<summary><a href="#windowskernel">WindowsKernel</a> 📂</summary>
+	<li><a href="#firsttime">First Time?</a></li>
+	<li><a href="#windowssecuritymeasures">Security Measures</a></li>
+	<li><a href="#windowskernel">WindowsKernel</a></li>
+<details>
+	<summary>📂</summary>
 	<ul>
 		<li><a href="#windowskernel-keyresponsabilitiesofthewindowskernel">Key Responsibilities of the Windows Kernel</a></li>
 		<li><a href="#windowskernel-kernelmodevsusermode">Kernel Mode vs User Mode</a></li>
 		<li><a href="#windowskernel-whydevelopkernelmodedrivers">Why Develop Kernel Mode Drivers?</a></li>
 	</ul>
-	</details>
-</li>
-<li>
-	<details>
-	<summary><a href="#buildingawindowskernelmodedriver">Building a Windows Kernel Mode Driver</a> 📂</summary>
+</details>
+	<li><a href="#buildingawindowskernelmodedriver">Building a Windows Kernel Mode Driver</a></li>
+<details>
+	<summary>📂</summary>
 	<ul>
-		<li><a href="#buildingawindowskernelmodedriver-requirements"></a>Requirements</li>
+		<li><a href="#buildingawindowskernelmodedriver-requirements">Requirements</a></li>
 		<li><a href="#buildingawindowskernelmodedriver-script">Script</a></li>
 		<li><a href="#buildingawindowskernelmodedriver-projectsetup">Project Setup</a></li>
 	</ul>
-	</details>
-</li>
-<li><a href="#pocs">Proof of Concepts (Malicious Kernel Mode Drivers)</a></li>
+</details>
+	<li><a href="#pocs">Proof of Concepts (Malicious Kernel Mode Drivers)</a></li>
 </ul>
 
 
