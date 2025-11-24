@@ -15,7 +15,9 @@ This talk presented the internal architecture of the Benthic rootkit, with a foc
 		<img width="800px" src="2025 RootedCON Madrid/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
 	</a>
 	<br>
-	<em>Watch the full presentation on my YouTube channel</em>
+	<em>
+		<a href="https://www.youtube.com/watch?v=W7jj1e30ADU" target="_blank">Watch the full presentation on my YouTube channel</a>
+	</em>
 </p>
 
 ### **🎙️ ViCONgal 2025**
@@ -26,6 +28,8 @@ The session opened with a quick recap of the 2024 ViCONgal talk, explaining how 
 
 <p align="center">
 	<img width="800px" src="2025 ViCONgal/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
+	<br>
+	<em>Upload pending</em>
 </p>
 
 ### **🎙️ INCIBE Emprende 2025**
@@ -36,4 +40,6 @@ Designed as a recap of RootedCON and ViCONgal 2025, this session walked through 
 
 <p align="center">
 	<img width="800px" src="2025 INCIBE Emprende/Presentation/Images/Front_Page.png" alt="Click to watch the video">
+	<br>
+	<em>Upload pending</em>
 </p>
