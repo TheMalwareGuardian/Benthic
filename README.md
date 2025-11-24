@@ -84,7 +84,7 @@ All modules can run independently or as part of the full rootkit pipeline. Wheth
 
 ## ***🎙️ Cybersecurity Conferences***
 
-📁 You can find all materials related to these events (slides, demos, extra resources) in the [`Cybersecurity Conferences`](https://github.com/TheMalwareGuardian/Benthic/tree/main/Cybersecurity%20Conferences) folder of this repository.
+📁 You can find all materials related to these events (slides, demos, extra resources) in the [`Cybersecurity Conferences`](https://github.com/TheMalwareGuardian/Benthic/tree/main/03%20Cybersecurity%20Conferences) folder of this repository.
 
 
 ---
